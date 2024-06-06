@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hV1dcY2S27q1i2FTdoWDcwCxFuAazLWUiBAhY2hrXt0=",
+  "Hash": "ckmVavz43QRqiP2u85tZdppX8Voe5p5c+r2ZO0+gDgU=",
   "Source": "AuthSystem",
   "BasePath": "_content/AuthSystem",
   "Mode": "Default",
@@ -1231,6 +1231,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Login.css"
+    },
+    {
+      "Identity": "C:\\Users\\LEGION\\Desktop\\Auth\\AuthSystem\\wwwroot\\css\\Register.css",
+      "SourceId": "AuthSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LEGION\\Desktop\\Auth\\AuthSystem\\wwwroot\\",
+      "BasePath": "_content/AuthSystem",
+      "RelativePath": "css/Register.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Register.css"
     },
     {
       "Identity": "C:\\Users\\LEGION\\Desktop\\Auth\\AuthSystem\\wwwroot\\css\\site.css",

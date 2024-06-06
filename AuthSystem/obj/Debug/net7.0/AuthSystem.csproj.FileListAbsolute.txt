@@ -1134,3 +1134,4 @@ C:\Users\LEGION\Desktop\Auth\AuthSystem\obj\Debug\net7.0\refint\AuthSystem.dll
 C:\Users\LEGION\Desktop\Auth\AuthSystem\obj\Debug\net7.0\AuthSystem.pdb
 C:\Users\LEGION\Desktop\Auth\AuthSystem\obj\Debug\net7.0\AuthSystem.genruntimeconfig.cache
 C:\Users\LEGION\Desktop\Auth\AuthSystem\obj\Debug\net7.0\ref\AuthSystem.dll
+C:\Users\LEGION\Desktop\Auth\AuthSystem\obj\Debug\net7.0\AuthSystem.sourcelink.json
